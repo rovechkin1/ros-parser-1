@@ -1,4 +1,4 @@
-module github.com/rovechkin1/ros-parser
+module github.com/rovechkin1/ros-parser-1
 
 go 1.14
 
