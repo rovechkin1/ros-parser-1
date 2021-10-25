@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	rosbag "github.com/rovechkin1/ros-parser"
+	rosbag "github.com/rovechkin1/ros-parser-1"
 )
 
 func must(err error) {
